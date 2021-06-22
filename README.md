@@ -12,7 +12,7 @@ Meeting Monday 7th June:-
 
 Code to create a line graph from dataset which provides monthly data of US Consumer Price Index (CPI)(Yearmon - key variable, combines year and month (numeric 1-12). First 4 digits represent year and last two represent the month, CPI - Consumer price index)
 Location: test.R
-Instruction: Install ggplot2 package (Use install.package('ggplot2') command)
+Instruction: Install ggplot2 package (Use install.packages('ggplot2') command)
 Expected graph: ![TestRplot](https://user-images.githubusercontent.com/84378192/122909643-7354e300-d366-11eb-9653-4f14bd81bc1c.png)
 
 
