@@ -10,7 +10,7 @@ Meeting Monday 7th June:-
 [9781119487845.ch3.pdf](https://github.com/Loveni09/micm-summer-2021/files/6693342/9781119487845.ch3.pdf)
 
 
-Code to create a line graph from dataset which provides monthly data of US CPI(Yearmon - key variable, combines year and month. First 4 digits represent year and last two represent the month, CPI - Consumer price index)
+Code to create a line graph from dataset which provides monthly data of US CPI (Yearmon - key variable, combines year and month. First 4 digits represent year and last two represent the month, CPI - Consumer price index)
 
 - Location: test.R
 
