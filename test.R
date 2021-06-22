@@ -1,6 +1,3 @@
-1+1
-x = 1+1
-x=rnorm(100)
-plot(x)
-library(ggplot)
-install.packages('ggplot2')
+
+plot(US.CPI$Yearmon, US.CPI$CPI, type='p')
+
