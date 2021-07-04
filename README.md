@@ -11,14 +11,6 @@ The objective of this research project is to predict chronic pain trajectories i
 - [9781119487845.ch3.pdf](https://github.com/Loveni09/micm-summer-2021/files/6693342/9781119487845.ch3.pdf)
 - [MPR-27-e1608.pdf](https://github.com/Loveni09/micm-summer-2021/files/6760044/MPR-27-e1608.pdf)
 
-## Generating figure example
-- Objective: To create a line graph from dataset which provides monthly data of US CPI (Yearmon - key variable, combines year and month. First 4 digits represent year and last two represent the month, CPI - Consumer price index)
-- Location: test.R
-- Instruction: Install ggplot2 package (Use install.packages('ggplot2') command)
-- Expected graph: 
-
-![TestRplot](https://user-images.githubusercontent.com/84378192/122909643-7354e300-d366-11eb-9653-4f14bd81bc1c.png)
-
 ## Progress
 - Did background readings and research on GWAS (Genome-Wide Association Studies)
 - To do Haplotype reading
@@ -26,6 +18,14 @@ The objective of this research project is to predict chronic pain trajectories i
 - Tutorial on data wrangling with python
 - Working on merging phenotype and covariates files
 - Working on SAIGE Step 1 Script
+- 
+## Generating figure example
+- Objective: To create a line graph from dataset which provides monthly data of US CPI (Yearmon - key variable, combines year and month. First 4 digits represent year and last two represent the month, CPI - Consumer price index)
+- Location: test.R
+- Instruction: Install ggplot2 package (Use install.packages('ggplot2') command)
+- Expected graph: 
+
+![TestRplot](https://user-images.githubusercontent.com/84378192/122909643-7354e300-d366-11eb-9653-4f14bd81bc1c.png)
 
 
 
