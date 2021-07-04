@@ -21,5 +21,6 @@ Code to create a line graph from dataset which provides monthly data of US CPI (
 
 ![TestRplot](https://user-images.githubusercontent.com/84378192/122909643-7354e300-d366-11eb-9653-4f14bd81bc1c.png)
 
+GOAL
 
 
