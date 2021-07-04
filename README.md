@@ -18,7 +18,7 @@ The objective of this research project is to predict chronic pain trajectories i
 - Tutorial on data wrangling with python
 - Working on merging phenotype and covariates files
 - Working on SAIGE Step 1 Script
-- 
+
 ## Generating figure example
 - Objective: To create a line graph from dataset which provides monthly data of US CPI (Yearmon - key variable, combines year and month. First 4 digits represent year and last two represent the month, CPI - Consumer price index)
 - Location: test.R
