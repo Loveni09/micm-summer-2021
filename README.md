@@ -4,12 +4,12 @@ The objective of this research project is to predict chronic pain trajectories i
 
 
 ## Background Readings
-[9781119487845.ch21.pdf](https://github.com/Loveni09/micm-summer-2021/files/6614401/9781119487845.ch21.pdf)
-[dyz173.pdf](https://github.com/Loveni09/micm-summer-2021/files/6614403/dyz173.pdf)
-[Johnston et al. - 2019 - Genome-wide association study of multisite chronic.pdf](https://github.com/Loveni09/micm-summer-2021/files/6614404/Johnston.et.al.-.2019.-.Genome-wide.association.study.of.multisite.chronic.pdf)
-[Johnston_PloSGenetics_SM.pdf](https://github.com/Loveni09/micm-summer-2021/files/6614408/Johnston_PloSGenetics_SM.pdf)
-[9781119487845.ch3.pdf](https://github.com/Loveni09/micm-summer-2021/files/6693342/9781119487845.ch3.pdf)
-[MPR-27-e1608.pdf](https://github.com/Loveni09/micm-summer-2021/files/6760044/MPR-27-e1608.pdf)
+- [9781119487845.ch21.pdf](https://github.com/Loveni09/micm-summer-2021/files/6614401/9781119487845.ch21.pdf)
+- [dyz173.pdf](https://github.com/Loveni09/micm-summer-2021/files/6614403/dyz173.pdf)
+- [Johnston et al. - 2019 - Genome-wide association study of multisite chronic.pdf](https://github.com/Loveni09/micm-summer-2021/files/6614404/Johnston.et.al.-.2019.-.Genome-wide.association.study.of.multisite.chronic.pdf)
+- [Johnston_PloSGenetics_SM.pdf](https://github.com/Loveni09/micm-summer-2021/files/6614408/Johnston_PloSGenetics_SM.pdf)
+- [9781119487845.ch3.pdf](https://github.com/Loveni09/micm-summer-2021/files/6693342/9781119487845.ch3.pdf)
+- [MPR-27-e1608.pdf](https://github.com/Loveni09/micm-summer-2021/files/6760044/MPR-27-e1608.pdf)
 
 ## Generating figure example
 - Objective: To create a line graph from dataset which provides monthly data of US CPI (Yearmon - key variable, combines year and month. First 4 digits represent year and last two represent the month, CPI - Consumer price index)
