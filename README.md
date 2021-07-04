@@ -19,6 +19,14 @@ The objective of this research project is to predict chronic pain trajectories i
 
 ![TestRplot](https://user-images.githubusercontent.com/84378192/122909643-7354e300-d366-11eb-9653-4f14bd81bc1c.png)
 
+## Progress
+- Did background readings and research on GWAS (Genome-Wide Association Studies)
+- To do Haplotype reading
+- Tutorial on linear regression
+- Tutorial on data wrangling with python
+- Working on merging phenotype and covariates files
+- Working on SAIGE Step 1 Script
+
 
 
 
