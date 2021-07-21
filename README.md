@@ -6,7 +6,7 @@ The objective of this research project is to predict chronic pain trajectories i
 Genome-wide association studies are used to detect the association between a certain variation in the genetic code and a physical trait (phenotype). The phenotype that we are looking into is chronic back pain, which we defined as a binary trait. Since most binary traits tend to have fewer cases than controls, the usually used linear or logistic mixed models are not efficient since they cause significant type I error rates with unbalanced control-case proportions. SAIGE, short for Scalable and Accurate Implementation of GEneralized mixed model, however is able to control for these high type I error rates and therefore will be used for analysis. 
 
 ### Installing instructions for SAIGE
-SAIGE can be installed using a conda environment following this link: https://github.com/weizhouUMICH/SAIGE/wiki/Genetic-association-tests-using-SAIGE#installing-saige 
+SAIGE can be installed using a conda environment following instructions here: https://github.com/weizhouUMICH/SAIGE/wiki/Genetic-association-tests-using-SAIGE#installing-saige 
 
 ### Steps
 Step 1:
