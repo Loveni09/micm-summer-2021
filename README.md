@@ -12,7 +12,7 @@ SAIGE can be installed using a conda environment following this link: https://gi
 Step 1:
 Fitting a logistic mixed model for the binary trait (chronic back pain) across 22 autosomes
 
-- Input files: Genotype plink binary files (in .bim, .fam, .bed files) with only 22 autosomes (the other chromosomes were removed from the initial complete set of files using "awk '($1 ~ /\d+/)' file.bim > snp.txt" and "plink --bfile file --extract snp.txt --make-bed --out newfile") and phenotype file (covariates, binary phenotype, IDs)
+- Input files: Genotype plink binary files (in .bim, .fam, .bed files) with only 22 autosomes (the other sex and MT chromosomes were removed from the initial complete set of files using "awk '($1 ~ /\d+/)' file.bim > snp.txt" and "plink --bfile file --extract snp.txt --make-bed --out newfile") and phenotype file (covariates, binary phenotype, IDs)
 
 - Output files: variance ratio file, model file, association result file for subset of randomly selected markers
 
