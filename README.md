@@ -25,6 +25,7 @@ Doing association test chromosome by chromosome
 
 ## Progress
 - To do SAIGE reading
+- Step 1 completed
 - Working on SAIGE Step 2 Script
 
 ## Background Readings
