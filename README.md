@@ -24,9 +24,8 @@ Doing association test chromosome by chromosome
 - Output file: Association test results file
 
 ## Progress
-- To do SAIGE reading
-- Step 1 completed
-- Working on SAIGE Step 2 Script
+- Using new version of SAIGE for steps 1 and 2
+
 
 ## Background Readings
 - [9781119487845.ch21.pdf](https://github.com/Loveni09/micm-summer-2021/files/6614401/9781119487845.ch21.pdf)
