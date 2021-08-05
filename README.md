@@ -25,7 +25,7 @@ Doing association test chromosome by chromosome
 
 - Output file: Association test results file
 
-After steps 1 and 2 have been successful, a quality control filtering is carried on the SNPs (single nucleotide polymorphisms).
+After steps 1 and 2 have been successful, a quality control filtering is carried out on the SNPs (single nucleotide polymorphisms).
 
 ## Progress
 - Using new version of SAIGE for steps 1 and 2, waiting on results
@@ -40,16 +40,6 @@ After steps 1 and 2 have been successful, a quality control filtering is carried
 - [9781119487845.ch3.pdf](https://github.com/Loveni09/micm-summer-2021/files/6693342/9781119487845.ch3.pdf)
 - [MPR-27-e1608.pdf](https://github.com/Loveni09/micm-summer-2021/files/6760044/MPR-27-e1608.pdf)
 - [SAIGE_nature_genetics.pdf](https://github.com/Loveni09/micm-summer-2021/files/6855249/SAIGE_nature_genetics.pdf)
-
-
-## Generating figure example
-- Objective: To create a line graph from dataset which provides monthly data of US CPI (Yearmon - key variable, combines year and month. First 4 digits represent year and last two represent the month, CPI - Consumer price index)
-- Location: test.R
-- Instruction: Install ggplot2 package (Use install.packages('ggplot2') command)
-- Expected graph: 
-
-![TestRplot](https://user-images.githubusercontent.com/84378192/122909643-7354e300-d366-11eb-9653-4f14bd81bc1c.png)
-
 
 
 
