@@ -25,6 +25,8 @@ Doing association test chromosome by chromosome
 
 - Output file: Association test results file
 
+After steps 1 and 2 have been successful, a quality control filtering is carried on the SNPs (single nucleotide polymorphisms).
+
 ## Progress
 - Using new version of SAIGE for steps 1 and 2, waiting on results
 - QC filtering step after step 2 completed
