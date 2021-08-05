@@ -8,7 +8,7 @@ Genome-wide association studies are used to detect the association between a cer
 ### Installing instructions for SAIGE
 SAIGE can be installed using a conda environment following instructions here: https://github.com/weizhouUMICH/SAIGE/wiki/Genetic-association-tests-using-SAIGE#installing-saige 
 
-In case there's a SAIGE version issue, singularity can be used in the script for the steps; else, there is no need for singularity and the SAIGE_S1/S2.sh scripts can be used.
+In case there's a SAIGE version issue during the runs, singularity can be used in the script for the steps; else, there is no need for singularity and the SAIGE_S1/S2.sh scripts can be used.
 
 ### Steps
 Step 1:
