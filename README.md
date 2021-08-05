@@ -8,6 +8,8 @@ Genome-wide association studies are used to detect the association between a cer
 ### Installing instructions for SAIGE
 SAIGE can be installed using a conda environment following instructions here: https://github.com/weizhouUMICH/SAIGE/wiki/Genetic-association-tests-using-SAIGE#installing-saige 
 
+In case there's a SAIGE version issue, singularity can be used in the script for the steps; else, there is no need for singularity and the SAIGE_S1/S2.sh scripts can be used.
+
 ### Steps
 Step 1:
 Fitting a logistic mixed model for the binary trait (chronic back pain) across 22 autosomes
@@ -24,8 +26,9 @@ Doing association test chromosome by chromosome
 - Output file: Association test results file
 
 ## Progress
-- Using new version of SAIGE for steps 1 and 2
-
+- Using new version of SAIGE for steps 1 and 2, waiting on results
+- QC filtering step after step 2 completed
+- Visualizing results using FUMA 
 
 ## Background Readings
 - [9781119487845.ch21.pdf](https://github.com/Loveni09/micm-summer-2021/files/6614401/9781119487845.ch21.pdf)
