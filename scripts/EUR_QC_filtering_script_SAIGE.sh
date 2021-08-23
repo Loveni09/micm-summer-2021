@@ -22,10 +22,10 @@ path_to_filter_file=/lustre03/project/6048803/CLSA/QC_filters/EUR_QC_filters/EUR
 rs=rsid
 
 # First allele:
-A1=Allele1
+A1=SNPID
 
 # Second allele:
-A2=Allele2
+A2=Allele1
 
 ####### OUTPUT INFO: #######
 # type the path to the folder where the filtered files should be saved, ednding with "/":
@@ -47,8 +47,14 @@ SAIGE=TRUE
 dot=\.
 sl=\\
 
-mkdir ${path_to_output_folder}sumstats_filtered/
+# mkdir ${path_to_output_folder}sumstats_filtered/
 path_to_output_folder=${path_to_output_folder}sumstats_filtered/
+
+export MUGQIC_INSTALL_HOME=/cvmfs/soft.mugqic/CentOS6
+module use $MUGQIC_INSTALL_HOME/modulefiles
+module load mugqic/R_Bioconductor/3.6.0_3.9
+
+fill=TRUE 
 
 cat > ${path_to_output_folder}qc_filter.R << EOT
 library(data.table)
@@ -213,8 +219,6 @@ EOT
 module load gcc/7.3.0 r/3.6.0
 
 Rscript ${path_to_output_folder}qc_filter.R
-
-rm ${path_to_output_folder}qc_filter.R
 
 ####################### COMPRESSION OF OUTPUT FILE: ################################################################
 
