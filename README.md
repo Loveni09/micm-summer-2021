@@ -30,6 +30,13 @@ After steps 1 and 2 have been successful, a quality control filtering is carried
 ### Visualization of results
 This step is performed with a platform called FUMA (FUnctional Mapping and Annotation) which is useful to visualize and annotate results from GWAS. 
 The SNP2GENE function was used: this takes GWAS summary statistics (obtained from the step 2 results post filtering) as input and provides annotation for all SNPs in the input data and gives genome-wide plots like Manhattan/QQ plots that can show significant SNPs if they are present. Also, a summary of results and result tables are also obtained. 
+
+Here are the Manhattan and QQ plots that were obtained from FUMA:
+
+![Screenshot 2021-08-21 135155](https://user-images.githubusercontent.com/84378192/130857966-53b2f23a-1628-40ae-ba4f-b460d26c6455.png)
+ 
+![Screenshot 2021-08-21 135222](https://user-images.githubusercontent.com/84378192/130857838-e37f7b64-e55e-47ce-860e-2ecad3a318c8.png)
+
  
 ## Progress
 - Visualizing results using FUMA 
