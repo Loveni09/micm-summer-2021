@@ -34,11 +34,11 @@ The SNP2GENE function was used: this takes GWAS summary statistics (obtained fro
 Here are the Manhattan and QQ plots that were obtained from FUMA:
 
 ![Screenshot 2021-08-21 135155](https://user-images.githubusercontent.com/84378192/130857966-53b2f23a-1628-40ae-ba4f-b460d26c6455.png)
- 
+
 ![Screenshot 2021-08-21 135222](https://user-images.githubusercontent.com/84378192/130857838-e37f7b64-e55e-47ce-860e-2ecad3a318c8.png)
 
 ## Future work
-- Construction of polygenic risk scores to predict chronic pain states
+- Construction of polygenic risk scores could not be performed due to time constraints and could be performed later to predict chronic pain states
 
 ## Background Readings
 - [9781119487845.ch21.pdf](https://github.com/Loveni09/micm-summer-2021/files/6614401/9781119487845.ch21.pdf)
