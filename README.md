@@ -39,7 +39,7 @@ Here are the Manhattan and QQ plots that were obtained from FUMA:
 
  
 ## Future work
-- Construction of polygenic risk scores to predict chronic pain states-  
+- Construction of polygenic risk scores to predict chronic pain states
 
 ## Background Readings
 - [9781119487845.ch21.pdf](https://github.com/Loveni09/micm-summer-2021/files/6614401/9781119487845.ch21.pdf)
