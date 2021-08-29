@@ -38,8 +38,8 @@ Here are the Manhattan and QQ plots that were obtained from FUMA:
 ![Screenshot 2021-08-21 135222](https://user-images.githubusercontent.com/84378192/130857838-e37f7b64-e55e-47ce-860e-2ecad3a318c8.png)
 
  
-## Progress
-- Visualizing results using FUMA 
+## Future work
+- Construction of polygenic risk scores to predict chronic pain states-  
 
 ## Background Readings
 - [9781119487845.ch21.pdf](https://github.com/Loveni09/micm-summer-2021/files/6614401/9781119487845.ch21.pdf)
